@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-
+let gitDefinition = "Version control system. Tracks changes within files and allows anything from small to large projects to be worked on efficiently between multiple developers non-linearly."
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@
 */
 
 //CODE HERE
-
+let gitHubDefinition = "A cloud-based hosting service used in tandem with git to better manage project repositories. Not to be confused with git itself."
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,7 +26,7 @@
 */
 
 //CODE HERE
-
+let gitInitDefinition = "Creates a Git repository within whatever directory the user is currently in. A good way to double check if a directory is initialized is by running the command 'ls -a' and looking for a .git file."
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,7 +34,7 @@
 */
 
 //CODE HERE
-
+let gitCloneDefinition = "Copies an existing repository into a new directory."
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,7 +42,7 @@
 */
 
 //CODE HERE
-
+let gitStatusDefinition = "Outputs the state of the current directory and allows the user to see any changes made to it."
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,7 +53,8 @@
 */
 
 //CODE HERE
-
+let gitAddDefinition = "Only updates any changes made in the current repository to the staging area. It won't effect anything until it's commited."
+let gitAddCode = 'git add .'
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -64,8 +65,8 @@
 */
 
 //CODE HERE
-
-
+let gitCommitDefinition = "Records the changes made by the git command 'add' to the repository/captures the current state of the project."
+let gitCommitCode = "git commit -m 'Initial Commit'"
 //////////////////PROBLEM 8////////////////////
 /*
     Create a variable called 'gitPushDefinition'.  
@@ -73,3 +74,4 @@
 */
 
 //CODE HERE
+let gitPushDefinition = "Uploads any new commits to GitHub or remote repositories."
