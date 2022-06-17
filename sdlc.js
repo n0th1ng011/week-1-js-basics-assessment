@@ -12,6 +12,8 @@
 // Testing & Integration
 // Planning
 
+//CORRECT ORDER
+
 //Planning
 //Analysis of Requirements
 //Design
