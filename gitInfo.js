@@ -34,7 +34,7 @@ let gitInitDefinition = "Creates a Git repository within whatever directory the 
 */
 
 //CODE HERE
-let gitCloneDefinition = "Copies an existing repository into a new directory."
+let gitCloneDefinition = "Copies an existing repository into the current directory."
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
